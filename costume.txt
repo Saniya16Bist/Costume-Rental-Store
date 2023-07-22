@@ -1,0 +1,8 @@
+Cop Costume Set,        Cartmax, $15.0, 0
+Formal Suite,           Megaplex hawai, $14.5, 5
+FairyFull Set,          DollarSmart, $18.0, 13
+Runway  Gown,            Urbanplex, $22.0, 27
+Bridal Wear,            Flippy newlook, $55.0, 9
+Bowl suite,              Classy classy, $19.0, 11
+Cocktail ,         Cocktail demo, $20.0, 14
+Ballon Wears,           Hawaii fibi, $38.0, 2

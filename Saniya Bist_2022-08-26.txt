@@ -1,0 +1,10 @@
+ Invoice
+         Costume ID : 4
+         Customer Name : Saniya Bist
+         Costume Name : Runway  Gown
+         Brand :      Urbanplex
+         Date : 2022-08-26
+         Quantity : 3
+         Rate (5 days) : 22.0
+         Total Amount ($) : 66.0 /-
+        

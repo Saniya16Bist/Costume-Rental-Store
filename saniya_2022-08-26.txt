@@ -1,0 +1,10 @@
+ Invoice
+         Costume ID : 2
+         Customer Name : saniya
+         Costume Name : Formal Suite
+         Brand :           Megaplex hawai
+         Date : 2022-08-26
+         Quantity : 4
+         Rate (5 days) : 14.5
+         Total Amount ($) : 58.0 /-
+        
